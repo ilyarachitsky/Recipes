@@ -16,7 +16,271 @@
       "Cook on low for 7-9 hours."
     ],
     "timers": [0, 0, 0, 420],
-    "imageURL": "http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/27/20/8/picVfzLZo.jpg",
-    "originalURL": "http://www.food.com/recipe/to-die-for-crock-pot-roast-27208"
+    "imageURL": "http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/27/20/8/picVfzLZo.jpg"
+  },
+  {
+    "name": "Chicken Tenders",
+    "ingredients": [
+      "1 large egg,2 tablespoons olive oil",
+      "2 tablespoons lemon juice",
+      "1 tablespoon fresh chopped parsley",
+      "2 teaspoons minced garlic",
+      "3/4 teaspoon salt to season",
+      "1/4 teaspoon cracked black pepper",
+      "28 ounces (800 g) chicken tenders",
+      "1 cup Panko breadcrumbs",
+      "1/2 cup regular breadcrumbs (garlic, herb or Italian seasoned for extra flavour)",
+      "1 teaspoon mild paprika (or sweet, smoky, spicy)",
+      "1/2 teaspoon garlic powder",
+      "1/2 teaspoon onion powder",
+      "1/4 cup fresh grated parmesan cheese"
+    ],
+
+    "steps": [
+      "Preheat oven to 400°F (200°C). Lightly grease a baking tray / sheet with cooking oil spray, or a light coating of oil. Set aside.",
+      "In a large bowl, whisk together the egg, oil, lemon juice, parsley, garlic, salt and pepper.",
+      "Dip chicken tenders into egg mixture and let sit for 5 minutes while preparing crumb mixture. ",
+      "In another bowl, combine both breadcrumbs, paprika, garlic powder, onion powder and parmesan cheese.",
+      "Dredge the egg coated chicken in the breadcrumb/parmesan mixture, lightly pressing to evenly coat.",
+      "Arrange tenders on the baking sheet / tray and lightly spray with cooking oil spray. ",
+      "Bake for 10 minutes. Flip and bake for a further 5-10 minutes or until cooked through. (Broil in the last 2-3 minutes for a golden crispy crumb!)"
+    ],
+    "timers": [0, 0, 0, 420],
+    "imageURL": "https://imgur.com/djWF5zT",
+    "videoURL":"https://youtu.be/B3DEtmdw3-E"   
+  },
+  {
+    "name": "honey garlic butter roasted carrots",
+    "ingredients": [
+      "2 pounds (1 kg) carrots washed and peeled (or unpeeled)",
+      "1/3 cup butter",
+      "3 tablespoons honey",
+      "4 garlic cloves minced",
+      "1/4-1/2 teaspoon salt plus more for seasoning",
+      "Cracked black pepper",
+      "2 tablespoons fresh chopped parsley"
+    ],
+
+    "steps": [
+      "Preheat oven to 425°F (220°C). Lightly grease a large baking sheet with nonstick cooking oil spray; set aside.",
+      "Trim ends of carrots and cut into thirds.",
+      "Melt butter in a pan or skillet over medium-heat. Pour in honey and cook, while stirring, until completely melted through the butter. Add the garlic and cook for 30 seconds until fragrant while stirring.",
+      "Add the carrots and allow the sauce to thicken for a further minute, while tossing the carrots through the sauce. Season with salt and pepper. ",
+      "Transfer carrots to baking sheet in a single layer so they cook evenly. Toss to evenly coat.",
+      "Roast for 20 minutes, or until carrots are fork-tender. Broil (or grill) for 2-3 minutes on high heat to crisp/char the edges.",
+      "OPTIONAL: Transfer them back into the skillet and allow carrots to simmer in the sauce over high heat for 5 minutes to thicken the sauce into a glaze. *SEE NOTES.",
+      "Season with a little extra salt and pepper if desired. Garnish with parsley.",
+      "Arrange onto serving platter and enjoy!"
+    ],
+    "timers": [0, 0, 0, 420],
+    "imageURL": "https://imgur.com/jL2tsND",
+    "videoURL":"https://youtu.be/qYfoARhooHE"
+   
+  },
+  {
+    "name": "creamy mashed potatoes ",
+    "ingredients": [
+      "2 pounds (1kg) potatoes, (Russet, Yukon Gold, Dutch Creams, Creme Gold, Creme Royale)",
+      "1 teaspoon salt",
+      "1/2 cup hot milk, or more",
+      "1/3 cup unsalted butter, softened (close to room temp is best)",
+      "6-8 cloves fresh garlic finely chopped",
+      "1/4 cup sour cream",
+      "1/4 cup fresh shredded parmesan cheese, optional",
+      "Salt and Pepper, to taste",
+      "1 tablespoon fresh chopped parsley to garnish, optional to garnish"
+    ],
+
+    "steps": [
+      "Peel and cut potatoes into quarters lengthwise. Remove any spots, lumps or knots.",
+      "Place potatoes in a large pot (6-quart) and cover with cold, salted water by an inch. Bring to a boil, reduce heat down to medium-low and allow to simmer until fork tender (about 15-20 minutes).",
+      "When potatoes are just about done (nearly fork-tender), heat 1 tablespoon of the butter in a small pan over medium-high heat. Sauté garlic until fragrant, about 1 minute. Set aside and keep warm",
+      "Drain cooked potatoes, add in the remaining butter, cooked garlic, hot milk and sour cream.",
+      "Mash the potatoes with a potato masher until smooth, adding a little extra milk if needed. ",
+      "Add in the parmesan cheese. Season with salt and pepper to taste."
+    ],
+    "timers": [0, 0, 0, 420],
+    "imageURL": "https://imgur.com/Sou4Z5E",
+    "videoURL":""
+   
+  },
+  {
+    "name": "garlic herb butter roast chicken",
+    "ingredients": [
+      "4 pound (2kg) whole chicken,",
+      "1/4 cup unsalted butter, melted",
+      "1/4 cup white wine",
+      "1 lemon, halved",
+      "Salt and freshly ground pepper, to taste",
+      "2 tablespoons fresh chopped parsley",
+      "4 garlic cloves, minced",
+      "1 head of garlic roughly peeled and cut in half horizontally through the middle crosswise",
+      "3 fresh whole rosemary sprigs"
+    
+    ],
+
+    "steps": [
+      "Preheat oven to 430°F | 220°C (400°F or 200°C fan forced). Line a baking tray with foil, or lightly grease a roasting pan.",
+      "Discard neck from inside the cavity and remove any excess fat and leftover feathers. Pat dry with paper towels.",
+      "Pour the olive oil, melted butter, wine (if using) and the juice of half a lemon over the chicken, under the skin and inside the cavity. Season chicken liberally on the outside and inside the cavity with salt and pepper. Sprinkle over the parsley.",
+      "Rub the minced garlic over the chicken, mixing all ingredients together over the chicken and under the skin.",
+      "Stuff the garlic head into the chicken cavity along with the rosemary sprigs and the squeezed lemon halve. Tie legs together with kitchen string.",
+      "Place breast-side up into baking tray or roasting pan. Roast for 1 hour and 15-20 minutes, basting half way through cooking time, until juices run clear when chicken thigh is pierced with a skewer. ",
+      "Baste again, then broil for a further 2-3 minutes, until golden.",
+      "Remove from the oven, cover with foil and allow to stand for 10 minutes before serving. Serve, drizzled with pan juices and remaining lemon half cut into wedges or slices."
+      
+    ],
+    "timers": [0, 0, 0, 420],
+    "imageURL": "https://imgur.com/s785FYB",
+    "videoURL":"https://youtu.be/nZBuqMc7Njs"
+   
+  },
+  {
+    "name": "CREAMY GARLIC PARMESAN BROCCOLI & BACON",
+    "ingredients": [
+      "8 ounces (250 g) bacon roughly chopped",
+      "2 tablespoons butter",
+      "1 onion diced",
+      "5 cloves garlic finely chopped",
+      "1 1/2 cups (400 ml) light cream (or for a richer sauce, you can use heavy or thickened cream)",
+      "1 1/2 teaspoons cornstarch mixed with 1 tablespoon water cornstarch slurry",
+      "1 pound (500 g) broccoli florets, from 2-3 broccoli heads -- stems removed Salt and pepper to season",
+      "1/2 cup fresh shredded or grated mozzarella",
+      "1/3 cup fresh shredded or grated parmesan cheese"
+    ],
+
+    "steps": [
+      "Preheat broiler (on medium heat).",
+      "Fry the bacon in a large oven-safe skillet over medium heat until crispy. Use a slotted spoon to transfer to a paper towel lined plate to soak up some of the oil. Set aside.",
+      "Drain most of the bacon fat from the pan, leaving about 1-2 tablespoons for added flavour (adjust this amount to your liking). In the same pan, melt the butter, add the onion and cook until transparent (about 2 minutes), while scraping up any browned bits leftover from the bacon. Add the broccoli and season with salt and pepper and cook while stirring occasionally for about 3 minutes, or until just turning vibrant in colour.",
+      "Add in the garlic and stir it through the broccoli for 30 seconds, until fragrant. Pour in the cream, reduce heat down to low and let simmer for about 3-4 while stirring occasionally, or until the sauce thickens to your likin",
+      "Add the bacon and give everything a good mix to combine all of the flavours together. Top with the mozzarella and parmesan cheeses. Broil until cheese is bubbling and golden, and broccoli is done to your liking (about 2-3 minutes).",
+      "Season with a little extra pepper, if desired, before serving. You can also sprinkle with fresh chopped parsley, thyme or rosemary"
+    ],
+    "timers": [0, 0, 0, 420],
+    "imageURL": "https://imgur.com/pXSdcA5",
+    "originalURL":"https://youtu.be/TMnx8KRWy6o"
+   
+  },
+  {
+    "name": "MOZZARELLA STUFFED CHICKEN PARMESAN",
+    "ingredients": [
+      "4 boneless skinless chicken thighs,",
+      "Pinch of salt, to taste",
+      "4 tablespoons garlic and herb flavoured tomato paste",
+      "2 teaspoons dried parsley",
+      "2 teaspoons garlic powder",
+      "1 teaspoon salt, divided",
+      "8 thin slices Mozzarella cheese, divided",
+      "1 egg",
+      "1 teaspoon garlic powder",
+      "1/4 cup breadcrumbs",
+      "1/4 cup panko breadcrumbs",
+      "1 teaspoon dried basil",
+      "2 tablespoons grated parmesan cheese",
+      "2 teaspoons olive oil",
+      "1 bottle Pasta/Marinara Sauce"
+    ],
+
+    "steps": [
+      "Preheat oven to 450°F (230°C). Lightly pound fillets between two pieces of plastic wrap to 1/4-inch thickness using a mallet. Pat chicken dry; season with salt.",
+      "Spread 1 tablespoon tomato paste over one side of each fillet; sprinkle with parsley, garlic powder and 1/2 teaspoon of salt. Place one slice of mozzarella onto each half of a fillet and roll (starting from the cheese end) and place seam side down.",
+      "In a shallow medium-sized bowl, whisk the the egg, garlic powder and remaining 1/2 teaspoon of salt together; set aside. In another shallow bowl, combine the breadcrumbs, panko, basil and parmesan cheese.",
+      "Heat the olive oil in a 12-inch cast iron skillet (or oven-proof frying pan) over medium heat. Evenly coat the rolled chicken fillets into the egg mixture, then into the breadcrumb mixture.",
+      "Place the chicken (seam side down again) into the preheated skillet/pan and cook on each side for 4-5 minutes until the coating is golden brown and the cheese on the inside has melted.",
+      "Reduce heat to low and pour in the pasta sauce. Move the chicken around with tongs so the sauce is evenly covered over the base of the pan; allow to simmer for 1-2 minutes until fragrant.",
+      "Pour some sauce from the pan over each chicken; place skillet/pan in the oven to cook for a further 10 minutes. Remove pan from oven; top each chicken roll with remaining cheese slices; return to oven and allow to grill/broil on medium heat until cheese has melted over the top. Garnish with extra dried parsley and Italian herbs.",
+      "Serve warm over pasta; mashed potatoes or with a salad."
+    ],
+    "timers": [0, 0, 0, 420],
+    "imageURL": "https://imgur.com/BEuLvHD"
+   
+  },
+  {
+    "name": "2 INGREDIENT PESTO CHICKEN",
+    "ingredients": [
+      "4 skinless and boneless chicken breast fillets (about 1 kg | 2 pounds)",
+      "1/2 cup Basil Pesto , plus 1/4 cup extra for serving (use this recipe for homemade pesto or you can use store bought)",
+      "Salt and Pepper to season ",
+      "500 g | 17 ounces cherry tomatoes"
+    ],
+
+    "steps": [
+      "Smother chicken fillets in the pesto on all sides (about 2 tablespoons of pesto for each chicken breast, depending on your taste). ",
+      "Preheat a barbecue plate, grill pan or skillet over medium-high heat. Cook for 5-6 minutes each side or until completely cooked through.",
+      "Top chicken with extra pesto. Serve with the tomatoes",
+      "Preheat the oven to 350°F | 180°C. Line a baking dish with aluminium foil or bang | parchment paper.",
+      "Arrange the coated chicken breasts in the baking dish and bake in a preheated oven for 30 minutes.",
+      "At 30 minutes, remove the chicken from the oven and arrange the tomatoes around each fillet.",
+      "Place the chicken back in the oven and cook a further 20 minutes, or until the chicken is cooked through and no longer pink."
+      
+    ],
+    "timers": [0, 0, 0, 420],
+    "imageURL": "https://imgur.com/kAuDKnt"
+   
+  },
+  {
+    "name": "",
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+
+    "steps": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "timers": [0, 0, 0, 420],
+    "imageURL": ""
+   
+  },
+  {
+    "name": "",
+    "ingredients": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+
+    "steps": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "timers": [0, 0, 0, 420],
+    "imageURL": ""
+   
   }
 ]
