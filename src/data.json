@@ -220,67 +220,75 @@
    
   },
   {
-    "name": "",
+    "name": "Pancakes",
     "ingredients": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "potatoes – 1 kg",
+      "sauerkraut – 300 g",
+      "eggs – 2 pieces",
+      "onions – 1 head",
+      "wheat flour – 100 grams",
+      "milk – 200 grams",
+      "greens",
+      "salt",
+      "vegetable oil for frying"
+  
     ],
 
     "steps": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Potatoes wash, peel and grate on a coarse grater into a separate bowl. Gently squeeze to remove excess juice",
+      "Sauerkraut to press down with hands that are softer. Add to the potatoes. There may be hammered in chicken eggs",
+      "Onion finely chop, to attach to other components. Pour the prepared milk, add the flour. Salt. The mixture should be not too runny, but not thick. To bring it to the desired consistency, gradually adding milk or flour",
+      "In a pan heat the vegetable oil. You may want to add a little fat or butter.",
+      "Potatoes to score a tablespoon and place on a pan. Each dranik be pressed to become flat. Fry for 3-4 minutes on each side, the tracking, so it wouldn't burn.",
+      "Served pancakes with greens and sour cream. Bon appetit!"
     ],
     "timers": [0, 0, 0, 420],
-    "imageURL": ""
+    "imageURL": "https://res.cloudinary.com/dppglrm2s/image/upload/v1621530796/draniki_xmmcs2.jpg"
    
   },
   {
-    "name": "",
+    "name": "Cottage cheese pancakes",
     "ingredients": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "low fat cottage cheese (300 grams)",
+      "chicken eggs (2 pieces)",
+      "semolina (2-3 tablespoons)",
+      "sugar (50-60 grams)",
+      "sour cream (3 tablespoons)",
+      "a pinch of salt",
+      "vegetable oil"
+  
     ],
 
     "steps": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "In large bowl, mix cottage cheese with sour cream. Gradually add the flour, semolina, salt and sugar. Beat eggs. Carefully knead. Leave the mixture for 20 minutes to semolina swelled.",
+      "Preheat a frying pan with plenty of vegetable oil. Form small balls, which are neatly spread on a pan.",
+      "Fry until Golden brown on both sides. Bon appetit!"
     ],
     "timers": [0, 0, 0, 420],
-    "imageURL": ""
+    "imageURL": "https://res.cloudinary.com/dppglrm2s/image/upload/v1621531477/sirniki_xpifkg.jpg"
+   
+  },
+  {
+    "name": "Vereshchaka",
+    "ingredients": [
+      "4 white sausages",
+      "150g bacon",
+      "100g onion",
+      "50g flour",
+      "0.7 liters water",
+      "0.5 liters beer",
+      "spices (cumin, bay leaf, black pepper) and salt to taste"
+  
+    ],
+
+    "steps": [
+      "Dice the onion and sauté it in the vegetable oil until it is light brown. Add the julienne bacon and keep frying the mix.",
+      "Put the white sausages in the boiling water mixed with beer and spices. When the sausages are cooked, take them out and cut into pieces. Put the sausage pieces back to the broth and add the onion and bacon.",
+      "On a dry frying pan, sauté the flour until it is cream-colored, cool it down and add the remaining broth in the amount needed for a uniform consistency. Pour the mix slowly into the vereshchaka with the sausages stirring the mix all the way. Keep it on low heat until it thickens."
+    
+    ],
+    "timers": [0, 0, 0, 420],
+    "imageURL": "https://res.cloudinary.com/dppglrm2s/image/upload/v1621532240/vereshaka_snudxi.jpg"
    
   }
 ]
