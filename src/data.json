@@ -640,7 +640,192 @@
     "imageURL": "https://res.cloudinary.com/dppglrm2s/image/upload/v1621869329/id20_epxzlq.jpg"
   }
 
-  // Hugo Id 21-30 fish
-  
-  // Anna Id 31-40 desserts
+  {
+    "id": 21,
+    "name": "Fish & Seafood Cataplana",
+    "ingredients": [
+      "1 and 3/4 lbs of different types of fish",
+      "1/4 lb of shrimp in shell",
+      "1/4 lb of mussels in half shell",
+      "4 potatoes",
+      "5 tomatoes",
+      "1 green bell pepper",
+      "1 onion",
+      "3 cloves of garlic",
+      "3/4 cup of white wine",
+      "4 tablespoons of olive oil",
+      "1 tablespoon of Worcestershire sauce",
+      "Juice of 1 lemon",
+      "1 bay leaf",
+      "Salt and pepper (to taste)",
+      "Chopped parsley (to taste)"
+    ],
+    "steps": [
+      "Arrange and cut the fish into pieces, place in a bowl and season with the lemon juice, the white wine, salt and pepper andmarinate for 20 minutes.",
+      "Meanwhile, peel and wash the onion and garlic cloves, cut the onions into slices and chop the garlic.",
+      "Wash the tomatoes and cut them into slices.",
+      "Wash, clean and cut the green bell pepper into strips.",
+      "Wash and peel the potatoes and cut them into slices.",
+      "In the cataplana pot, place the onion, garlic, tomato, pepper, potatoes, drained fish, the mussels, shrimp and bay leaf, drizzle with the marinade from the fish, next add Worcestershire sauce over it and the olive oil.",
+      "Cover and simmer for 35 minutes over medium low heat, lightly shaking the cataplana from time to time.",
+      "Make sure everything is well cooked, remove from the heat and serve sprinkled with chopped parsley."
+    ],
+    "timers": [0, 0, 0, 420],
+    "imageURL": "https://portugueserecipes.ca/uploads/190504065103.jpg"
+  },
+  {
+    "id": 22,
+    "name": " FISH STEW (CALDEIRADA DE PEIXE)",
+    "ingredients": [
+      "1 cup white wine",
+      "3 tbsp tomato paste",
+      "1 tsp paprika",
+      "1/4 cup olive oil",
+      "6 lbs fresh grouper cut in steaks (feel free to use another favourite white fish like conger or cod)",
+      "1 large cooking onion sliced thin",
+      "5 cloves garlic sliced thin",
+      "1 tbsp kosher salt 1/2 tbsp if using fine salt",
+      "1 tsp cumin",
+      "1/2 tsp ground cinnamon",
+      "2 medium tomatoes sliced into thin wheels",
+      "1 large bell pepper sliced into thin wheels",
+      "2 bay leaves",
+      "8 sprigs of fresh flat leaf (Italian) parsley with most of the stem cut off"
+    ],
+    "steps": [
+      "In a measuring cup with a spout, whisk together the wine, tomato paste and 1 tsp paprika, until well combined.",
+      "Pour the olive oil into the bottom of a large dutch oven or heavy pot.",
+      "Spread half of the sliced onions and garlic evenly over the oil and bottom of the pot.",
+      "Place half of the fish steaks over the onions and garlic, in one layer.",
+      "Sprinkle 1/3 of the salt, cumin and cinnamon evenly over the fish.",
+      "Place the tomato and pepper sliced wheels evenly over the fish.",
+      "Spread the remaining half of the sliced onions and garlic evenly over the tomato and pepper slices.",
+      "Place the remaining half of the fish steaks over the onions and garlic, in one layer.",
+      "Sprinkle 1/3 of the salt, cumin and cinnamon evenly over the fish.",
+      "Place the remaining tomato and pepper sliced wheels evenly over the fish.",
+      "Sprinkle the remaining salt, cumin and cinnamon over the tomatoes and peppers.",
+      "Add the two bay leaves.",
+      "Pour the wine mixture over the ingredients in the pot.",
+      "Place the pot on the stove and turn the heat up to medium high.",
+      "Once the liquid starts to bubble, cover the pot with the lid and reduce the heat to low.",
+      "Let simmer for about 30 minutes or until the fish starts to flake.",
+      "Turn off the heat, uncover the pot, and add the sprigs of fresh parsley over the cooked ingredients.",
+      "Serve hot with steamed/boiled potatoes, rice or a green salad… and a good cup of red wine"
+    ],
+    "timers": [0, 0, 0, 420],
+    "imageURL": "https://www.photosandfood.ca/wp-content/uploads/2020/05/DSC00845-2.jpg.webp"
+  },
+  {
+    "id": 23,
+    "name": "Grilled codfish",
+    "ingredients": [
+      "Codfish",
+      "Olive oil",
+      "3 garlic cloves",
+      "4 potatoes with the peel",
+      "Parsley (optional)",
+      "Salt and pepper (to taste)"
+    ],
+    "steps": [
+      "Place the codfish in a bowl and cover it with ground pepper. Place it in the refrigerator for a few hours.",
+      "Drain the codfish and remove the excess of pepper with paper towels if needed.",
+      "Grill the cod (15 to 20 minutes or until cooked) switching sides half way.",
+      "Boil the potatoes in water with salt to taste.",
+      "Fry the garlic in olive oil and set aside.",
+      "Punch each boiled potato to open them a little.",
+      "Serve the codfish accompanied by the potatoes, bread, roasted peppers or a salad. You can also try these sauces.",
+      "Drizzle with the olive oil and fried garlic and enjoy!"
+    ],
+    "timers": [0, 0, 0, 420],
+    "imageURL": "https://www.bbqs-algarve.com/wp-content/uploads/2020/07/Portuguese-grilled-codfish-recipe.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Fish Soup",
+    "ingredients": [
+      "2 pounds fresh fish of your choice (salmon, seabass, fresh cod, monkfish...)",
+      "1/2 pound tiger prawns",
+      "5 table spoons olive oil",
+      "1 carrot",
+      "2 potatoes",
+      "1 onionshopping list",
+      "4 garlic cloves",
+      "1 pound good red tomatoes (peeled)",
+      "1 red chili (if you like it)",
+      "1/2 pint white wine",
+      "coriander leaves",
+      "salt",
+      "pepper",
+      "6 pints water to boil the fish and prawn (add more later if needed)"
+    ],
+    "steps": [
+      "Boil the fish and the prawns in water seasoned with salt and bay leaf.",
+      "Use a big pot and start cooking the chopped onion, garlic and carrot in olive oil. Let it be in low heat for 10 minutes stirring occasionally so it doesn't burn.",
+      "Add the skinless potato in cubes, the tomato and the wine. Let it cook for 10 minutes and don't forget to stir.",
+      "Save the boiled fish water and add to your vegetables.",
+      "Taste it and season again if needed. It's time to add the chili pepper.",
+      "While you let the soup cook, get rid of the fish bones.",
+      "45 minutes later take the chili and the bay leaf and use a hand blender to transform your veggies and water into a nice broth.",
+      "After blended add the fish, prawns and chopped coriander leaves.",
+      "Cook for 10 minutes more and serve."
+    ],
+    "timers": [0, 0, 0, 420],
+    "imageURL": "http://s2.grouprecipes.com/images/recipes/original/2221747064.JPG"
+  },
+  {
+    "id": 25,
+    "name": "Portuguese fish and chips-bacalhau a bras",
+    "ingredients": [
+      "1 pound dried salt cod",
+      "7 tablespoons olive oil, divided",
+      "1 1/2 pounds russet potatoes, peeled, cut into matchstick-size strips (about 6 cups)",
+      "1 large onion, thinly sliced",
+      "8 large eggs",
+      "1/2 teaspoon salt",
+      "1/2 teaspoon ground black pepper",
+      "4 tablespoons chopped fresh parsley, divided",
+      "some green or black olives"
+    ],
+    "steps": [
+      "Rinse the fish and place it in a bowl. Add enough cold water to cover. Chill overnight, changing the water several times.",
+      "The next day, drain the fish and transfer to a large saucepan. Cover with water, bring to a boil, and simmer until the fish flakes easily, about 15 minutes.Drain and cool. Flake the fish, discarding any bones.",
+      "Heat 4 tablespoons of the oil in a heavy, large nonstick skillet over medium-high heat. Add the potatoes in batches and sauté until crisp and golden, about 7 minutes per batch. Transfer the potatoes to paper towels to drain.",
+      "Add 1 tablespoon of the oil to the same skillet. Add the onion and and sauté until golden, about 15 minutes. Reduce the heat to low. Add the remaining 2 tablespoons oil to the onion slices in the skillet.",
+      "Mix in the fish and potatoes. Whisk the eggs, the 1/2 teaspoon salt, and the 1/2 teaspoon pepper in a large bowl to blend. Add the egg mixture the skillet.",
+      "Cook over medium heat until the eggs are softly set, stirring occasionally, about 3 minutes. Transfer onto a platter.",
+      "Garnish with the olives and the parsley.And serve with some salad."
+    ],
+    "timers": [0, 0, 0, 420],
+    "imageURL": "https://en.petitchef.com/imgupl/recipe/portuguese-fish-and-chips-bacalhau-a-bras--md-266404p432650.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Fish and Pasta Stew",
+    "ingredients": [
+      "2 Tbsp olive oil",
+      "1 onion medium, finely chopped",
+      "3 cloves garlic minced",
+      "1 cup leeks sliced, soaked and clean (or carrots)",
+      "¾ cup crushed tomatoes or ½lb (250g) fresh tomatoes, diced",
+      "1 l shrimp or seafood broth (about 1 qt, 32oz) homemade or store-bought",
+      "1-2 cup water boiling",
+      "1 ⅓ cup pasta macaroni or small shells (about ½lb)",
+      "400 g fish fillets haddock, cod, halibut, salmon or another fish of your liking (about 1 lb, cut into bite-size pieces)",
+      "200 g shrimp (about ½lb) peeled and deveined, optional",
+      "salt and pepper to taste",
+      "¼ cup cilantro or parsley, chopped"
+    ],
+    "steps": [
+      "Season the fish (and shrimp, if using) with salt and pepper and set aside. Chop the onion and the garlic. Heat the broth and water.",
+      "Bring a pan to medium heat, heat the oil, add the onion and sauté until it begins to brown.",
+      "Add the garlic, mix and cook for 1 minute. Add the leeks and cook until tender.",
+      "Add the tomatoes and let everything simmer for a few minutes to develop the flavours. Add the broth and 1 cup of water (both hot), taste and adjust the seasoning with salt and a pinch of black pepper.",
+      "Bring to a boil and add the pasta. Mix and cook over medium-high heat, stirring occasionally (so the macaroni doesn't stick to the bottom), until the pasta is soft (about 10-12 minutes). If you want the stew with more broth, add more hot water (and check the seasoning) until you get the consistency you prefer.",
+      "Add the fish (and the shrimp, if using), mix and cook for another 3-5 minutes, until the fish is opaque and flakes easily. Ideally, the fish should break up a little in the broth to combine more with the pasta.",
+      "Turn off the heat, sprinkle with the cilantro (or parsley), stir, and it's ready to serve!"
+    ],
+    "timers": [0, 0, 0, 420],
+    "imageURL": "https://i1.wp.com/www.vivahappy.com/wp-content/uploads/2020/04/20200422_135154-scaled.jpg?resize=1400%2C400&ssl=1"
+  }
+
 ]
