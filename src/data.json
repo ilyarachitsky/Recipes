@@ -591,7 +591,7 @@
     ],
     "timers": [0, 0, 0, 420],
     "imageURL": "https://res.cloudinary.com/dppglrm2s/image/upload/v1621870139/id18_l7ri7g.jpg"
-  }
+  },
   {
     "id": 19,
     "name": "Baked Chicken with Onions & Leeks",
@@ -613,7 +613,8 @@
     ],
     "timers": [0, 0, 0, 420],
     "imageURL": "https://res.cloudinary.com/dppglrm2s/image/upload/v1621869777/id19_uyopso.jpg"
-  }
+  },
+
   {
     "id": 20,
     "name": "Garlic Chicken",
@@ -638,7 +639,7 @@
     ],
     "timers": [0, 0, 0, 420],
     "imageURL": "https://res.cloudinary.com/dppglrm2s/image/upload/v1621869329/id20_epxzlq.jpg"
-  }
+  },
 
   {
     "id": 21,
