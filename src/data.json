@@ -1,5 +1,319 @@
 [
   {
+    "id":1,
+    "name": "Veg Fried Rice",
+    "ingredients": [
+      "2 tbsp Oil",
+      "1 Star Anise",
+      "2 Dry Red Chillies, broken in half",
+      "8-10 Cashew Nuts",
+      "1 inch Ginger, chopped",
+      "1 tbsp Garlic, chopped",
+      "2 tbsp Spring Onion, chopped",
+      "¼ cup Carrot, chopped",
+      "¼ cup Broccoli, small florets",
+      "¼ cup Cabbage, chopped",
+      "Salt to taste",
+      "½ tsp Black Pepper Powder",
+      "½ tbsp Vinegar",
+      "1 ½ cups Pre-cooked Rice"
+    ],
+    "steps": [
+      "In a wok or kadai, add oil, let it heat properly and then add star anise, dry red chilli, let it crackle",
+      "Then add cashew nut, ginger, garlic saute for a minute.",
+      "Now, add spring onion, carrot, broccoli, cabbage and saute on high flames for 3-4 minutes.",
+      "Then add salt to taste, black pepper powder, vinegar and mix everything properly and then add the pre-cooked rice",
+      "Toss the rice on high flames with light hands and let it cook for 3-4 minutes then serve hot and garnish with spring onion.",
+      "Arrange onto serving platter and enjoy!"
+    ],
+    "timers": [
+      0,
+      0,
+      0,
+      420
+    ],
+    "imageURL": "https://imgur.com/7xgAPPt"
+  },
+  {
+    "id":2,
+    "name": "Lemon Rice",
+    "ingredients": [
+      "2 tbsp Sesame Oil ",
+      "1 tsp Mustard Seeds ",
+      "1 tsp Whole Black Gram",
+      "1 tsp split chickpeas",
+      "1 sprig Curry Leaves ",
+      "2 Dry Red Chillies",
+      "2-3 fresh Green Chillies – slit in half ",
+      "6-8 Cashew Nuts ",
+      "8-10 Peanuts ",
+      "1 tsp Turmeric Powder",
+      "1 medium Lemon Juice ",
+      "2 cups Rice",
+      "4-5 Curry Leaves ",
+      "Salt to taste"
+    ],
+    "steps": [
+      "In a kadai heat sesame oil and add mustard seeds, whole black gram, split chiockpeas and let it get nutty brown.",
+      "Now add curry leaves, dry red chillies, green chillies, saute for a minute.",
+      "Then add cashew nuts, peanuts, and saute until light golden brown.",
+      "Switch off the flames and add turmeric powder, salt, lemon juice and then toss in the rice.",
+      "Switch the flames back on and sprinkle some water on the rice, cover and cook for 2-3 minutes.",
+      "Remove the lid and crushed minutes of curry leaves and salt, mix it properly and serve warm.",
+      "Arrange onto serving platter and enjoy!"
+    ],
+    "timers": [
+      0,
+      0,
+      0,
+      420
+    ],
+    "imageURL": "https://imgur.com/AVBgtbs"
+  },
+  {
+    "id":3,
+    "name": "French Beans Vegetable",
+    "ingredients": [
+      "2 tbsp Oil ",
+      "1 tsp Cumin Seeds",
+      "1 inch Ginger – chopped",
+      "3-4 cloves Garlic – chopped ",
+      "3 fresh Green Chillies – chopped",
+      "1 medium Onion – sliced",
+      "½ tsp Asafoetida",
+      "½ tsp Turmeric Powder",
+      "1 tsp Degi Red Chilli Powder",
+      "1 tsp Coriander Powder",
+      "1 cup soaked Chana Dal ",
+      "2 cups French Beans – cut in 1 inch pieces ",
+      " medium Tomato – chopped",
+      "Salt to taste ",
+      "few Coriander Leaves – roughly torn "
+    ],
+    "steps": [
+      "In a pan heat oil then add cumin seeds, ginger, green chillies, garlic saute a few seconds.",
+      "Now add onion saute until translucent then add asafoetida, turmeric powder, degi red chilli powder, coriander powder and saute until fragrant.",
+      "Then add soaked chana dal, salt, some water and mix it once then cover and cook for 3-4 minutes.",
+      "Now add french beans and mix everything properly then cover and cook for 5-7 minutes.",
+      "Remove the lid then add tomatoes and saute for a minute, finish it with chopped coriander leaves and serve hot.",
+      "Arrange onto serving platter and enjoy!"
+    ],
+    "timers": [
+      0,
+      0,
+      0,
+      420
+    ],
+    "imageURL": "https://imgur.com/VpvcQKE"
+  },
+  {
+    "id":4,
+    "name": "Hara Bhara Kebab",
+    "ingredients": [
+      "1 tsp olive oil",
+      "½ cup french beans",
+      "½ cup green peas",
+      "½ no capsicum/ green bell pepper",
+      "½ cup spinach puree",
+      "2 potato, boiled",
+      "1 tsp ginger, chopped",
+      "1 tsp green chili, chopped",
+      "2-3 tbsp corn flour",
+      "1 tsp cumin powder",
+      "1 tsp coriander powder",
+      "1 tsp red chili powder",
+      "1 tsp garam masala",
+      "Salt to taste",
+      "Few cashew nuts",
+      "Oil for shallow frying"
+    ],
+    "steps": [
+      "Heat oil in kadhai, add vegetables sauté for a minute.",
+      "Then add ½ cup of water, cover and cook for 5 minutes on low flame.",
+      "When vegetables are cooked, put them in a blender and make a fine paste.",
+      "In another bowl add this prepared paste, spinach puree, potato, ginger, green chili, spices, corn flour and mix well.",
+      "Take lemon size ball and make tikki. Put one cashewnut on top. Shallow fry them in hot pan from both the sides.",
+      "Remove and serve hot."
+    ],
+    "timers": [
+      0,
+      0,
+      0,
+      420
+    ],
+    "imageURL": ""
+  },
+  {
+    "id":5,
+    "name": "Chilli Garlic Noodles",
+    "ingredients": [
+      "Water,Salt to taste,",
+      "2 pack Noodles",
+      "3 tbsp Oil",
+      "5-6 cloves Garlic, chopped",
+      "1 medium Onion, sliced",
+      "1 tsp Red chilli flakes",
+      "½ tsp Soy sauce",
+      "2 tbsp Tomato ketchup",
+      "1 tbsp Vinegar",
+      "2 tbsp Chilli oil",
+      "1 medium Red bell pepper",
+      "2 tbsp Spring onion, chopped",
+      "Few Coriander leaves, roughly torn"
+    ],
+    "steps": [
+      "In a sauce pot, add water, salt to taste. Once it starts boiling add noodles,Cover it with the lid and cook on medium flame ",
+      "Onces it’s cooked strain the noodles and transfer it into a tray, add oil and mix it well.",
+      "Keep it in a refrigerator until it cools down completely",
+      "Now,In a wok, add oil, garlic and saute it well.",
+      "Add onion, red chilli flakes, saute for a few minutes.",
+      "Add soy sauce, tomato ketchup, vinegar, prepared chilli oil and mix it well.",
+      "Add boiled noodles and mix it well.",
+      "Add green and red bell pepper and toss everything well.",
+      "Add spring onion, bhavnagri fresh red chilli, coriander leaves.",
+      "Garnish it with coriander leaves and chilli oil",
+      "Arrange onto serving platter and enjoy!"
+    ],
+    "timers": [
+      0,
+      0,
+      0,
+      420
+    ],
+    "imageURL": "https://imgur.com/i4bLhPE"
+  },
+  {
+    "id":6,
+    "name": "Sweet Potato Chaat",
+    "ingredients": [
+      "2-4 Sweet potato, parboiled, roasted, peeled, diced",
+      "¼ cup Melted Butter",
+      "Tomato sweet sauce",
+      "Salt to taste",
+      "1 inch Ginger, chopped",
+      "2-3 Green chilli, chopped",
+      "Few Coriander leaves, chopped",
+      "1 large Onion, chopped",
+      "Few Puffed rice"
+    ],
+    "steps": [
+      "Place the parboiled sweet potato on semi hot coal and roast it from all the sides properly.",
+      "Onces the potatoes are cool enough to handle, peel them and cut into dice and keep aside for future use.",
+      "n a bowl, add ginger, green chillies, onion, coriander leaves and mix it well and keep aside for future use.",
+      "Heat butter in a shallow pan, add sweet potato and fry until nice crisp from all the sides.",
+      "Onces it’s done transfer it into a bowl and keep aside for future use.",
+      "In the same pan, add prepared tomato red sauce and saute for a minute.",
+      "Add a little water and mix it well. Add salt to taste, add fried sweet potato and toss it well.",
+      "Add the chopped onion green chilli mixture and puffed rice and mix it well.",
+      "Garnish it with puffed rice and coriander sprig and serve warm.",
+      "Arrange onto serving platter and enjoy!"
+    ],
+    "timers": [
+      0,
+      0,
+      0,
+      420
+    ],
+    "imageURL": "https://imgur.com/CM2EYUY"
+  },
+  {
+    "id":7,
+    "name": "Onion Cheese Pakoda",
+    "ingredients": [
+      "2 Cups Onion, sliced",
+      "½ tsp Turmeric Powder ",
+      "2 tsp Red Chili Powder",
+      "½ tsp Ajwain",
+      "1 tsp Ginger, chopped",
+      "1 Green Chili, chopped",
+      "½ Cup Besan/ Gram Flour",
+      "¼ Cup Rice Flour, optional",
+      "5 tbsp Water",
+      "Oil, for deep frying",
+      "3-4 cheese cubes, cut into bite sized pieces",
+      "Salt, to taste"
+    ],
+    "steps": [
+      "In a bowl combine onion, turmeric powder, red chili powder, ajwain, ginger, green chili and mix well.",
+      "Season with salt. Add besan, rice flour, water and make a thick batter.",
+      "Dip the cheese cubes and coat well with the prepared batter.",
+      "Heat oil for deep frying in a pan.",
+      "Divide into portions and deep fry the pakodas in oil till brown and crisp.",
+      "Remove on absorbent paper and drain off the excess oil.",
+      "Serve hot with green chutney."
+    ],
+    "timers": [
+      0,
+      0,
+      0,
+      420
+    ],
+    "imageURL": "https://imgur.com/a42pmVC"
+  },
+  {
+    "id":8,
+    "name": "honey garlic butter roasted carrots",
+    "ingredients": [
+      "2 pounds (1 kg) carrots washed and peeled (or unpeeled)",
+      "1/3 cup butter",
+      "3 tablespoons honey",
+      "4 garlic cloves minced",
+      "1/4-1/2 teaspoon salt plus more for seasoning",
+      "Cracked black pepper",
+      "2 tablespoons fresh chopped parsley"
+    ],
+    "steps": [
+      "Preheat oven to 425°F (220°C). Lightly grease a large baking sheet with nonstick cooking oil spray; set aside.",
+      "Trim ends of carrots and cut into thirds.",
+      "Melt butter in a pan or skillet over medium-heat. Pour in honey and cook, while stirring, until completely melted through the butter. Add the garlic and cook for 30 seconds until fragrant while stirring.",
+      "Add the carrots and allow the sauce to thicken for a further minute, while tossing the carrots through the sauce. Season with salt and pepper. ",
+      "Transfer carrots to baking sheet in a single layer so they cook evenly. Toss to evenly coat.",
+      "Roast for 20 minutes, or until carrots are fork-tender. Broil (or grill) for 2-3 minutes on high heat to crisp/char the edges.",
+      "OPTIONAL: Transfer them back into the skillet and allow carrots to simmer in the sauce over high heat for 5 minutes to thicken the sauce into a glaze. *SEE NOTES.",
+      "Season with a little extra salt and pepper if desired. Garnish with parsley.",
+      "Arrange onto serving platter and enjoy!"
+    ],
+    "timers": [
+      0,
+      0,
+      0,
+      420
+    ],
+    "imageURL": "https://imgur.com/jL2tsND",
+    "videoURL": "https://youtu.be/qYfoARhooHE"
+  },
+  {
+    "id":9,
+    "name": "creamy mashed potatoes ",
+    "ingredients": [
+      "2 pounds (1kg) potatoes, (Russet, Yukon Gold, Dutch Creams, Creme Gold, Creme Royale)",
+      "1 teaspoon salt",
+      "1/2 cup hot milk, or more",
+      "1/3 cup unsalted butter, softened (close to room temp is best)",
+      "6-8 cloves fresh garlic finely chopped",
+      "1/4 cup sour cream",
+      "1/4 cup fresh shredded parmesan cheese, optional",
+      "Salt and Pepper, to taste",
+      "1 tablespoon fresh chopped parsley to garnish, optional to garnish"
+    ],
+    "steps": [
+      "Peel and cut potatoes into quarters lengthwise. Remove any spots, lumps or knots.",
+      "Place potatoes in a large pot (6-quart) and cover with cold, salted water by an inch. Bring to a boil, reduce heat down to medium-low and allow to simmer until fork tender (about 15-20 minutes).",
+      "When potatoes are just about done (nearly fork-tender), heat 1 tablespoon of the butter in a small pan over medium-high heat. Sauté garlic until fragrant, about 1 minute. Set aside and keep warm",
+      "Drain cooked potatoes, add in the remaining butter, cooked garlic, hot milk and sour cream.",
+      "Mash the potatoes with a potato masher until smooth, adding a little extra milk if needed. ",
+      "Add in the parmesan cheese. Season with salt and pepper to taste."
+    ],
+    "timers": [
+      0,
+      0,
+      0,
+      420
+    ],
+    "imageURL": "https://imgur.com/Sou4Z5E",
+    "videoURL": ""
+  },
+  {
     "name": "Crock Pot Roast",
     "ingredients": [
       "1 beef roast",
@@ -8,14 +322,18 @@
       "1 package dry ranch dressing mix",
       "1/2 cup water"
     ],
-
     "steps": [
       "Place beef roast in crock pot.",
       "Mix the dried mixes together in a bowl and sprinkle over the roast.",
       "Pour the water around the roast.",
       "Cook on low for 7-9 hours."
     ],
-    "timers": [0, 0, 0, 420],
+    "timers": [
+      0,
+      0,
+      0,
+      420
+    ],
     "imageURL": "http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/27/20/8/picVfzLZo.jpg"
   },
   {
@@ -35,7 +353,6 @@
       "1/2 teaspoon onion powder",
       "1/4 cup fresh grated parmesan cheese"
     ],
-
     "steps": [
       "Preheat oven to 400°F (200°C). Lightly grease a baking tray / sheet with cooking oil spray, or a light coating of oil. Set aside.",
       "In a large bowl, whisk together the egg, oil, lemon juice, parsley, garlic, salt and pepper.",
@@ -45,64 +362,14 @@
       "Arrange tenders on the baking sheet / tray and lightly spray with cooking oil spray. ",
       "Bake for 10 minutes. Flip and bake for a further 5-10 minutes or until cooked through. (Broil in the last 2-3 minutes for a golden crispy crumb!)"
     ],
-    "timers": [0, 0, 0, 420],
+    "timers": [
+      0,
+      0,
+      0,
+      420
+    ],
     "imageURL": "https://imgur.com/djWF5zT",
-    "videoURL":"https://youtu.be/B3DEtmdw3-E"   
-  },
-  {
-    "name": "honey garlic butter roasted carrots",
-    "ingredients": [
-      "2 pounds (1 kg) carrots washed and peeled (or unpeeled)",
-      "1/3 cup butter",
-      "3 tablespoons honey",
-      "4 garlic cloves minced",
-      "1/4-1/2 teaspoon salt plus more for seasoning",
-      "Cracked black pepper",
-      "2 tablespoons fresh chopped parsley"
-    ],
-
-    "steps": [
-      "Preheat oven to 425°F (220°C). Lightly grease a large baking sheet with nonstick cooking oil spray; set aside.",
-      "Trim ends of carrots and cut into thirds.",
-      "Melt butter in a pan or skillet over medium-heat. Pour in honey and cook, while stirring, until completely melted through the butter. Add the garlic and cook for 30 seconds until fragrant while stirring.",
-      "Add the carrots and allow the sauce to thicken for a further minute, while tossing the carrots through the sauce. Season with salt and pepper. ",
-      "Transfer carrots to baking sheet in a single layer so they cook evenly. Toss to evenly coat.",
-      "Roast for 20 minutes, or until carrots are fork-tender. Broil (or grill) for 2-3 minutes on high heat to crisp/char the edges.",
-      "OPTIONAL: Transfer them back into the skillet and allow carrots to simmer in the sauce over high heat for 5 minutes to thicken the sauce into a glaze. *SEE NOTES.",
-      "Season with a little extra salt and pepper if desired. Garnish with parsley.",
-      "Arrange onto serving platter and enjoy!"
-    ],
-    "timers": [0, 0, 0, 420],
-    "imageURL": "https://imgur.com/jL2tsND",
-    "videoURL":"https://youtu.be/qYfoARhooHE"
-   
-  },
-  {
-    "name": "creamy mashed potatoes ",
-    "ingredients": [
-      "2 pounds (1kg) potatoes, (Russet, Yukon Gold, Dutch Creams, Creme Gold, Creme Royale)",
-      "1 teaspoon salt",
-      "1/2 cup hot milk, or more",
-      "1/3 cup unsalted butter, softened (close to room temp is best)",
-      "6-8 cloves fresh garlic finely chopped",
-      "1/4 cup sour cream",
-      "1/4 cup fresh shredded parmesan cheese, optional",
-      "Salt and Pepper, to taste",
-      "1 tablespoon fresh chopped parsley to garnish, optional to garnish"
-    ],
-
-    "steps": [
-      "Peel and cut potatoes into quarters lengthwise. Remove any spots, lumps or knots.",
-      "Place potatoes in a large pot (6-quart) and cover with cold, salted water by an inch. Bring to a boil, reduce heat down to medium-low and allow to simmer until fork tender (about 15-20 minutes).",
-      "When potatoes are just about done (nearly fork-tender), heat 1 tablespoon of the butter in a small pan over medium-high heat. Sauté garlic until fragrant, about 1 minute. Set aside and keep warm",
-      "Drain cooked potatoes, add in the remaining butter, cooked garlic, hot milk and sour cream.",
-      "Mash the potatoes with a potato masher until smooth, adding a little extra milk if needed. ",
-      "Add in the parmesan cheese. Season with salt and pepper to taste."
-    ],
-    "timers": [0, 0, 0, 420],
-    "imageURL": "https://imgur.com/Sou4Z5E",
-    "videoURL":""
-   
+    "videoURL": "https://youtu.be/B3DEtmdw3-E"
   },
   {
     "name": "garlic herb butter roast chicken",
@@ -116,9 +383,7 @@
       "4 garlic cloves, minced",
       "1 head of garlic roughly peeled and cut in half horizontally through the middle crosswise",
       "3 fresh whole rosemary sprigs"
-    
     ],
-
     "steps": [
       "Preheat oven to 430°F | 220°C (400°F or 200°C fan forced). Line a baking tray with foil, or lightly grease a roasting pan.",
       "Discard neck from inside the cavity and remove any excess fat and leftover feathers. Pat dry with paper towels.",
@@ -128,12 +393,15 @@
       "Place breast-side up into baking tray or roasting pan. Roast for 1 hour and 15-20 minutes, basting half way through cooking time, until juices run clear when chicken thigh is pierced with a skewer. ",
       "Baste again, then broil for a further 2-3 minutes, until golden.",
       "Remove from the oven, cover with foil and allow to stand for 10 minutes before serving. Serve, drizzled with pan juices and remaining lemon half cut into wedges or slices."
-      
     ],
-    "timers": [0, 0, 0, 420],
+    "timers": [
+      0,
+      0,
+      0,
+      420
+    ],
     "imageURL": "https://imgur.com/s785FYB",
-    "videoURL":"https://youtu.be/nZBuqMc7Njs"
-   
+    "videoURL": "https://youtu.be/nZBuqMc7Njs"
   },
   {
     "name": "CREAMY GARLIC PARMESAN BROCCOLI & BACON",
@@ -148,7 +416,6 @@
       "1/2 cup fresh shredded or grated mozzarella",
       "1/3 cup fresh shredded or grated parmesan cheese"
     ],
-
     "steps": [
       "Preheat broiler (on medium heat).",
       "Fry the bacon in a large oven-safe skillet over medium heat until crispy. Use a slotted spoon to transfer to a paper towel lined plate to soak up some of the oil. Set aside.",
@@ -157,10 +424,14 @@
       "Add the bacon and give everything a good mix to combine all of the flavours together. Top with the mozzarella and parmesan cheeses. Broil until cheese is bubbling and golden, and broccoli is done to your liking (about 2-3 minutes).",
       "Season with a little extra pepper, if desired, before serving. You can also sprinkle with fresh chopped parsley, thyme or rosemary"
     ],
-    "timers": [0, 0, 0, 420],
+    "timers": [
+      0,
+      0,
+      0,
+      420
+    ],
     "imageURL": "https://imgur.com/pXSdcA5",
-    "originalURL":"https://youtu.be/TMnx8KRWy6o"
-   
+    "originalURL": "https://youtu.be/TMnx8KRWy6o"
   },
   {
     "name": "MOZZARELLA STUFFED CHICKEN PARMESAN",
@@ -181,7 +452,6 @@
       "2 teaspoons olive oil",
       "1 bottle Pasta/Marinara Sauce"
     ],
-
     "steps": [
       "Preheat oven to 450°F (230°C). Lightly pound fillets between two pieces of plastic wrap to 1/4-inch thickness using a mallet. Pat chicken dry; season with salt.",
       "Spread 1 tablespoon tomato paste over one side of each fillet; sprinkle with parsley, garlic powder and 1/2 teaspoon of salt. Place one slice of mozzarella onto each half of a fillet and roll (starting from the cheese end) and place seam side down.",
@@ -192,9 +462,13 @@
       "Pour some sauce from the pan over each chicken; place skillet/pan in the oven to cook for a further 10 minutes. Remove pan from oven; top each chicken roll with remaining cheese slices; return to oven and allow to grill/broil on medium heat until cheese has melted over the top. Garnish with extra dried parsley and Italian herbs.",
       "Serve warm over pasta; mashed potatoes or with a salad."
     ],
-    "timers": [0, 0, 0, 420],
+    "timers": [
+      0,
+      0,
+      0,
+      420
+    ],
     "imageURL": "https://imgur.com/BEuLvHD"
-   
   },
   {
     "name": "2 INGREDIENT PESTO CHICKEN",
@@ -204,7 +478,6 @@
       "Salt and Pepper to season ",
       "500 g | 17 ounces cherry tomatoes"
     ],
-
     "steps": [
       "Smother chicken fillets in the pesto on all sides (about 2 tablespoons of pesto for each chicken breast, depending on your taste). ",
       "Preheat a barbecue plate, grill pan or skillet over medium-high heat. Cook for 5-6 minutes each side or until completely cooked through.",
@@ -213,11 +486,14 @@
       "Arrange the coated chicken breasts in the baking dish and bake in a preheated oven for 30 minutes.",
       "At 30 minutes, remove the chicken from the oven and arrange the tomatoes around each fillet.",
       "Place the chicken back in the oven and cook a further 20 minutes, or until the chicken is cooked through and no longer pink."
-      
     ],
-    "timers": [0, 0, 0, 420],
+    "timers": [
+      0,
+      0,
+      0,
+      420
+    ],
     "imageURL": "https://imgur.com/kAuDKnt"
-   
   },
   {
     "name": "",
@@ -233,7 +509,6 @@
       "",
       ""
     ],
-
     "steps": [
       "",
       "",
@@ -247,9 +522,13 @@
       "",
       ""
     ],
-    "timers": [0, 0, 0, 420],
+    "timers": [
+      0,
+      0,
+      0,
+      420
+    ],
     "imageURL": ""
-   
   },
   {
     "name": "",
@@ -265,7 +544,6 @@
       "",
       ""
     ],
-
     "steps": [
       "",
       "",
@@ -279,8 +557,12 @@
       "",
       ""
     ],
-    "timers": [0, 0, 0, 420],
+    "timers": [
+      0,
+      0,
+      0,
+      420
+    ],
     "imageURL": ""
-   
   }
 ]
