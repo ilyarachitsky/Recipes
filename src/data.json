@@ -314,6 +314,7 @@
     "videoURL": ""
   },
   {
+    "id": 10,
     "name": "Crock Pot Roast",
     "ingredients": [
       "1 beef roast",
@@ -337,6 +338,7 @@
     "imageURL": "http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/27/20/8/picVfzLZo.jpg"
   },
   {
+    "id": 11,
     "name": "Chicken Tenders",
     "ingredients": [
       "1 large egg,2 tablespoons olive oil",
@@ -372,6 +374,7 @@
     "videoURL": "https://youtu.be/B3DEtmdw3-E"
   },
   {
+    "id": 12,
     "name": "garlic herb butter roast chicken",
     "ingredients": [
       "4 pound (2kg) whole chicken,",
@@ -404,6 +407,7 @@
     "videoURL": "https://youtu.be/nZBuqMc7Njs"
   },
   {
+    "id": 13,
     "name": "CREAMY GARLIC PARMESAN BROCCOLI & BACON",
     "ingredients": [
       "8 ounces (250 g) bacon roughly chopped",
@@ -434,6 +438,7 @@
     "originalURL": "https://youtu.be/TMnx8KRWy6o"
   },
   {
+    "id": 14,
     "name": "MOZZARELLA STUFFED CHICKEN PARMESAN",
     "ingredients": [
       "4 boneless skinless chicken thighs,",
@@ -471,6 +476,7 @@
     "imageURL": "https://imgur.com/BEuLvHD"
   },
   {
+    "id": 15,
     "name": "2 INGREDIENT PESTO CHICKEN",
     "ingredients": [
       "4 skinless and boneless chicken breast fillets (about 1 kg | 2 pounds)",
@@ -495,79 +501,146 @@
     ],
     "imageURL": "https://imgur.com/kAuDKnt"
   },
-  {
-    "name": "Pancakes",
+  { 
+    "id": 16,
+    "name": "Quick Chicken Parmesan",
     "ingredients": [
-      "potatoes – 1 kg",
-      "sauerkraut – 300 g",
-      "eggs – 2 pieces",
-      "onions – 1 head",
-      "wheat flour – 100 grams",
-      "milk – 200 grams",
-      "greens",
-      "salt",
-      "vegetable oil for frying"
+      "2 8-ounce boneless, skinless chicken breasts, trimmed",
+      "½ teaspoon freshly ground pepper, divided",
+      "½ cup coarse dry breadcrumbs, preferably whole-wheat (see Tip)",
+      "2 tablespoons freshly grated Parmesan cheese",
+      "3 tablespoons extra-virgin olive oil, divided",
+      "1 medium onion, chopped",
+      "3 cloves garlic, minced",
+      "1 28-ounce can no-salt-added crushed tomatoes",
+      "1 teaspoon Italian seasoning",
+      "½ teaspoon salt",
+      "1 cup shredded part-skim mozzarella cheese",
+      "¼ cup chopped fresh basil or parsley"
   
     ],
     "steps": [
-      "Potatoes wash, peel and grate on a coarse grater into a separate bowl. Gently squeeze to remove excess juice",
-      "Sauerkraut to press down with hands that are softer. Add to the potatoes. There may be hammered in chicken eggs",
-      "Onion finely chop, to attach to other components. Pour the prepared milk, add the flour. Salt. The mixture should be not too runny, but not thick. To bring it to the desired consistency, gradually adding milk or flour",
-      "In a pan heat the vegetable oil. You may want to add a little fat or butter.",
-      "Potatoes to score a tablespoon and place on a pan. Each dranik be pressed to become flat. Fry for 3-4 minutes on each side, the tracking, so it wouldn't burn.",
-      "Served pancakes with greens and sour cream. Bon appetit!"
+      "Cut each chicken breast in half on the diagonal to make 4 roughly equal portions. Place between pieces of plastic wrap and pound with the smooth side of a meat mallet or a heavy saucepan to an even 1/4-inch thickness. Sprinkle the chicken with 1/4 teaspoon pepper. Combine breadcrumbs. Parmesan and 1 tablespoon oil in a small bowl; set aside.",
+      "Position rack in upper third of oven; preheat broiler to high.",
+      "Heat 1 tablespoon oil in a large, ovenproof skillet over medium-high heat. Add half the chicken and cook until golden, 2 to 3 minutes per side. Transfer to a plate. Reduce the heat to medium and repeat with the remaining 1 tablespoon oil and chicken. Transfer the chicken to the plate.",
+      "Add onion and garlic to the pan and cook, stirring, until beginning to soften, 2 to 3 minutes. Remove the pan from the heat. Pour in crushed tomatoes; add Italian seasoning, salt and the remaining 1/4 teaspoon pepper. Return the pan to medium heat and cook, stirring, until the onions are tender, 2 to 3 minutes. Return the chicken and any accumulated juices to the pan. Turn to coat with the sauce.",
+      "Sprinkle about 1/4 cup of mozzarella cheese over each piece of chicken, then top with the reserved breadcrumb mixture. Broil until the cheese is melted, about 1 minute. (Watch carefully to prevent burning.) Serve the chicken with the sauce, sprinkled with basil (or parsley)."
     ],
     "timers": [0, 0, 0, 420],
-    "imageURL": "https://res.cloudinary.com/dppglrm2s/image/upload/v1621530796/draniki_xmmcs2.jpg"
+    "imageURL": "https://res.cloudinary.com/dppglrm2s/image/upload/v1621870669/id16_qhta7x.jpg"
    
 
   },
   {
-    "name": "Cottage cheese pancakes",
+    "id": 17,
+    "name": "Quick Roast Chicken & Root Vegetables",
     "ingredients": [
-      "low fat cottage cheese (300 grams)",
-      "chicken eggs (2 pieces)",
-      "semolina (2-3 tablespoons)",
-      "sugar (50-60 grams)",
-      "sour cream (3 tablespoons)",
-      "a pinch of salt",
-      "vegetable oil"
+      "1 pound turnips, peeled and cut into 1/2-inch chunks",
+      "1 pound baby potatoes, quartered",
+      "2 tablespoons extra-virgin olive oil, divided",
+      "1 tablespoon chopped fresh marjoram or 1 teaspoon dried",
+      "¾ teaspoon salt, divided",
+      "½ teaspoon freshly ground pepper, divided",
+      "¼ cup all-purpose flour",
+      "1 cup reduced-sodium chicken broth",
+      "2 bone-in chicken breasts (12 ounces each), skin and fat removed, cut in half crosswise",
+      "1 large shallot, chopped",
+      "1 tablespoon Dijon mustard",
+      "2 teaspoons red- or white-wine vinegar"
   
     ],
     "steps": [
-      "In large bowl, mix cottage cheese with sour cream. Gradually add the flour, semolina, salt and sugar. Beat eggs. Carefully knead. Leave the mixture for 20 minutes to semolina swelled.",
-      "Preheat a frying pan with plenty of vegetable oil. Form small balls, which are neatly spread on a pan.",
-      "Fry until Golden brown on both sides. Bon appetit!"
+      "Preheat oven to 500 degrees F.",
+      "Toss turnips, potatoes, 1 tablespoon oil, marjoram, 1/2 teaspoon salt and 1/4 teaspoon pepper together in a medium bowl. Spread in an even layer on a large baking sheet. Roast for 15 minutes.",
+      "Meanwhile, place flour in a shallow dish. Transfer 2 teaspoons of the flour to a small bowl and whisk in broth; set aside. Season chicken with the remaining 1/4 teaspoon salt and 1/4 teaspoon pepper. Dredge the chicken in the flour, shaking off excess. (Discard any leftover flour.)",
+      "Heat the remaining 1 tablespoon oil in a large skillet over medium heat. Add the chicken, skinned-side down, and cook until well browned on the bottom, about 5 minutes. Remove from the heat.",
+      "After the vegetables have been roasting for 15 minutes, stir them and place one piece of chicken, skinned-side up, in each corner of the baking sheet. (Set the skillet aside.) Return the vegetables and chicken to the oven and roast until the chicken is cooked through and the vegetables are tender, about 20 minutes more.",
+      "When the chicken and vegetables have about 10 minutes left, return the skillet to medium heat. Add shallot and cook, stirring, until fragrant, about 1 minute. Whisk the reserved broth mixture again, add to the pan and bring to a boil. Cook, stirring occasionally, until reduced by about half, about 8 minutes. Stir in mustard and vinegar. Serve the chicken and vegetables with the sauce."
     ],
 
-    
-
     "timers": [0, 0, 0, 420],
-    "imageURL": "https://res.cloudinary.com/dppglrm2s/image/upload/v1621531477/sirniki_xpifkg.jpg"
+    "imageURL": "https://res.cloudinary.com/dppglrm2s/image/upload/v1621870426/id17_kmlvhb.jpg"
    
   },
   {
-    "name": "Vereshchaka",
+    "id": 18,
+    "name": "Whole Roasted Lemon-Herb Chicken on a Bed of Vegetables",
     "ingredients": [
-      "4 white sausages",
-      "150g bacon",
-      "100g onion",
-      "50g flour",
-      "0.7 liters water",
-      "0.5 liters beer",
-      "spices (cumin, bay leaf, black pepper) and salt to taste"
-  
+      "¼ cup fresh sage leaves, divided",
+      "¼ cup fresh thyme sprigs, divided",
+      "2 lemons, divided",
+      "2 teaspoons minced garlic",
+      "2 tablespoons extra-virgin olive oil, divided",
+      "1 teaspoon salt, divided",
+      "¾ teaspoon freshly ground pepper, divided",
+      "1 small onion, quartered",
+      "1 4- to 4 1/2-pound chicken",
+      "4 large carrots, cut into 1/2-inch chunks",
+      "3 medium turnips, peeled (see Tip) and cut into 1/2-inch cubes",
+      "2 celeriac roots (1 1/2-2 pounds total), peeled (see Tip) and cut into 1/2-inch cubes"
     ],
 
     "steps": [
-      "Dice the onion and sauté it in the vegetable oil until it is light brown. Add the julienne bacon and keep frying the mix.",
-      "Put the white sausages in the boiling water mixed with beer and spices. When the sausages are cooked, take them out and cut into pieces. Put the sausage pieces back to the broth and add the onion and bacon.",
-      "On a dry frying pan, sauté the flour until it is cream-colored, cool it down and add the remaining broth in the amount needed for a uniform consistency. Pour the mix slowly into the vereshchaka with the sausages stirring the mix all the way. Keep it on low heat until it thickens."
-    
+      "Position rack in lower third of oven; preheat to 400F.",
+      "Chop 8 sage leaves and place in a bowl with 2 teaspoons thyme leaves. Squeeze the juice from 1 lemon into the bowl. Add garlic, 1 tablespoon oil, 3/4 teaspoon salt and 1/2 teaspoon pepper; mix well. Set aside.",
+      "Pierce the remaining lemon all over with a sharp fork. Cram the lemon, onion and the remaining sage and thyme into the chicken cavity.",
+      "Place the chicken breast-side up on a cutting board. Use your hands to gently loosen the skin covering the breast, thighs and the top end of the drumsticks. Smear the lemon-herb mixture under the skin, covering as much of the meat as possible.",
+      "Toss carrots, turnips and celeriac in a large bowl with the remaining 1 tablespoon oil and 1/4 teaspoon each salt and pepper until well coated.",
+      "Place the chicken breast-side up in a large roasting pan (but not on a rack). Scatter the vegetables around the chicken. Bake, stirring the vegetables occasionally, until an instant-read thermometer inserted into the thickest part of a thigh without touching bone registers 165 degrees F, 1 to 1 1/4 hours.",
+      "Transfer the chicken to a clean cutting board and let rest for 10 minutes before carving. Transfer the vegetables from the roasting pan to a serving dish with a slotted spoon, leaving behind as much of the fat as possible. Serve the chicken with the vegetables."
     ],
     "timers": [0, 0, 0, 420],
-    "imageURL": "https://res.cloudinary.com/dppglrm2s/image/upload/v1621532240/vereshaka_snudxi.jpg"
-   
-
+    "imageURL": "https://res.cloudinary.com/dppglrm2s/image/upload/v1621870139/id18_l7ri7g.jpg"
   }
+  {
+    "id": 19,
+    "name": "Baked Chicken with Onions & Leeks",
+    "ingredients": [
+      "2 cups thinly sliced onions",
+      "1 cup thinly sliced and washed leek, white and light green part only",
+      "4 cloves garlic, thinly sliced",
+      "3 tablespoons extra-virgin olive oil, divided",
+      "2 teaspoons fresh thyme leaves",
+      "¼ teaspoon salt",
+      "2 1/2-3 pounds bone-in chicken pieces (thighs, drumsticks and/or breasts), skin removed, trimmed (see Tip)"
+    ],
+
+    "steps": [
+      "Preheat oven to 400F.",
+      "Toss onions, leek, garlic, 2 tablespoons oil, thyme and salt in a large bowl until the vegetables are well coated. Spread the mixture in a nonreactive 9-by-13-inch baking dish (see Tip). Place the chicken pieces on the vegetables. Bake for 10 minutes.",
+      "Whisk mustard, shallot, rosemary, soy sauce and pepper in a small bowl; gradually whisk in the remaining 1 tablespoon oil.",
+      "After 10 minutes, brush the chicken with the mustard glaze. Continue baking until an instant-read thermometer inserted into the thickest part of a leg or breast (without touching bone) registers 165 degrees F, 30 to 45 minutes more. Serve the chicken with the vegetables."
+    ],
+    "timers": [0, 0, 0, 420],
+    "imageURL": "https://res.cloudinary.com/dppglrm2s/image/upload/v1621869777/id19_uyopso.jpg"
+  }
+  {
+    "id": 20,
+    "name": "Garlic Chicken",
+    "ingredients": [
+      "2 heads garlic, cloves separated",
+      "8 chicken drumsticks (about 2 1/2 pounds), skin removed, trimmed",
+      "½ teaspoon salt, divided",
+      "¼ teaspoon freshly ground pepper",
+      "3 tablespoons extra-virgin olive oil",
+      "⅓ cup white wine",
+      "1 cup reduced-sodium chicken broth",
+      "2 teaspoons Dijon mustard",
+      "2 teaspoons all-purpose flour",
+      "1/3 cup chopped fresh chives or scallion greens"
+    ],
+
+    "steps": [
+      "Lightly smash garlic cloves with the side of a large knife to loosen the skins. Peel; cut larger ones in half. Sprinkle chicken with 1/4 teaspoon salt and pepper.",
+      "Heat oil in a large skillet over medium heat. Add the garlic and cook, stirring, until beginning to brown, about 2 minutes. Remove to a plate with a slotted spoon.",
+      "Add chicken to the pan and cook until browned on one side, about 4 minutes. Turn it over and return the garlic to the pan. Add wine and cook for 1 minute.",
+      "Whisk broth, mustard, flour and the remaining 1/4 teaspoon salt in a small bowl. Add the mixture to the pan; bring to a boil, then reduce the heat to maintain a lively simmer. Cover and cook until the chicken is cooked through, 8 to 10 minutes. Serve sprinkled with chives (or scallion greens)."
+    ],
+    "timers": [0, 0, 0, 420],
+    "imageURL": "https://res.cloudinary.com/dppglrm2s/image/upload/v1621869329/id20_epxzlq.jpg"
+  }
+
+  // Hugo Id 21-30 fish
+  
+  // Anna Id 31-40 desserts
 ]
