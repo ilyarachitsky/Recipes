@@ -1,294 +1,195 @@
 [
   {
-    "name": "Crock Pot Roast",
+    "id": 21,
+    "name": "Fish & Seafood Cataplana",
     "ingredients": [
-      "1 beef roast",
-      "1 package brown gravy mix",
-      "1 package dried Italian salad dressing mix",
-      "1 package dry ranch dressing mix",
-      "1/2 cup water"
+      "1 and 3/4 lbs of different types of fish",
+      "1/4 lb of shrimp in shell",
+      "1/4 lb of mussels in half shell",
+      "4 potatoes",
+      "5 tomatoes",
+      "1 green bell pepper",
+      "1 onion",
+      "3 cloves of garlic",
+      "3/4 cup of white wine",
+      "4 tablespoons of olive oil",
+      "1 tablespoon of Worcestershire sauce",
+      "Juice of 1 lemon",
+      "1 bay leaf",
+      "Salt and pepper (to taste)",
+      "Chopped parsley (to taste)"
     ],
 
     "steps": [
-      "Place beef roast in crock pot.",
-      "Mix the dried mixes together in a bowl and sprinkle over the roast.",
-      "Pour the water around the roast.",
-      "Cook on low for 7-9 hours."
+      "Arrange and cut the fish into pieces, place in a bowl and season with the lemon juice, the white wine, salt and pepper andmarinate for 20 minutes.",
+      "Meanwhile, peel and wash the onion and garlic cloves, cut the onions into slices and chop the garlic.",
+      "Wash the tomatoes and cut them into slices.",
+      "Wash, clean and cut the green bell pepper into strips.",
+      "Wash and peel the potatoes and cut them into slices.",
+      "In the cataplana pot, place the onion, garlic, tomato, pepper, potatoes, drained fish, the mussels, shrimp and bay leaf, drizzle with the marinade from the fish, next add Worcestershire sauce over it and the olive oil.",
+      "Cover and simmer for 35 minutes over medium low heat, lightly shaking the cataplana from time to time.",
+      "Make sure everything is well cooked, remove from the heat and serve sprinkled with chopped parsley."
     ],
     "timers": [0, 0, 0, 420],
-    "imageURL": "http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/27/20/8/picVfzLZo.jpg"
+    "imageURL": "https://portugueserecipes.ca/uploads/190504065103.jpg"
   },
   {
-    "name": "Chicken Tenders",
+    "id": 22,
+    "name": " FISH STEW (CALDEIRADA DE PEIXE)",
     "ingredients": [
-      "1 large egg,2 tablespoons olive oil",
-      "2 tablespoons lemon juice",
-      "1 tablespoon fresh chopped parsley",
-      "2 teaspoons minced garlic",
-      "3/4 teaspoon salt to season",
-      "1/4 teaspoon cracked black pepper",
-      "28 ounces (800 g) chicken tenders",
-      "1 cup Panko breadcrumbs",
-      "1/2 cup regular breadcrumbs (garlic, herb or Italian seasoned for extra flavour)",
-      "1 teaspoon mild paprika (or sweet, smoky, spicy)",
-      "1/2 teaspoon garlic powder",
-      "1/2 teaspoon onion powder",
-      "1/4 cup fresh grated parmesan cheese"
+      "1 cup white wine",
+      "3 tbsp tomato paste",
+      "1 tsp paprika",
+      "1/4 cup olive oil",
+      "6 lbs fresh grouper cut in steaks (feel free to use another favourite white fish like conger or cod)",
+      "1 large cooking onion sliced thin",
+      "5 cloves garlic sliced thin",
+      "1 tbsp kosher salt 1/2 tbsp if using fine salt",
+      "1 tsp cumin",
+      "1/2 tsp ground cinnamon",
+      "2 medium tomatoes sliced into thin wheels",
+      "1 large bell pepper sliced into thin wheels",
+      "2 bay leaves",
+      "8 sprigs of fresh flat leaf (Italian) parsley with most of the stem cut off"
     ],
 
     "steps": [
-      "Preheat oven to 400°F (200°C). Lightly grease a baking tray / sheet with cooking oil spray, or a light coating of oil. Set aside.",
-      "In a large bowl, whisk together the egg, oil, lemon juice, parsley, garlic, salt and pepper.",
-      "Dip chicken tenders into egg mixture and let sit for 5 minutes while preparing crumb mixture. ",
-      "In another bowl, combine both breadcrumbs, paprika, garlic powder, onion powder and parmesan cheese.",
-      "Dredge the egg coated chicken in the breadcrumb/parmesan mixture, lightly pressing to evenly coat.",
-      "Arrange tenders on the baking sheet / tray and lightly spray with cooking oil spray. ",
-      "Bake for 10 minutes. Flip and bake for a further 5-10 minutes or until cooked through. (Broil in the last 2-3 minutes for a golden crispy crumb!)"
+      "In a measuring cup with a spout, whisk together the wine, tomato paste and 1 tsp paprika, until well combined.",
+      "Pour the olive oil into the bottom of a large dutch oven or heavy pot.",
+      "Spread half of the sliced onions and garlic evenly over the oil and bottom of the pot.",
+      "Place half of the fish steaks over the onions and garlic, in one layer.",
+      "Sprinkle 1/3 of the salt, cumin and cinnamon evenly over the fish.",
+      "Place the tomato and pepper sliced wheels evenly over the fish.",
+      "Spread the remaining half of the sliced onions and garlic evenly over the tomato and pepper slices.",
+      "Place the remaining half of the fish steaks over the onions and garlic, in one layer.",
+      "Sprinkle 1/3 of the salt, cumin and cinnamon evenly over the fish.",
+      "Place the remaining tomato and pepper sliced wheels evenly over the fish.",
+      "Sprinkle the remaining salt, cumin and cinnamon over the tomatoes and peppers.",
+      "Add the two bay leaves.",
+      "Pour the wine mixture over the ingredients in the pot.",
+      "Place the pot on the stove and turn the heat up to medium high.",
+      "Once the liquid starts to bubble, cover the pot with the lid and reduce the heat to low.",
+      "Let simmer for about 30 minutes or until the fish starts to flake.",
+      "Turn off the heat, uncover the pot, and add the sprigs of fresh parsley over the cooked ingredients.",
+      "Serve hot with steamed/boiled potatoes, rice or a green salad… and a good cup of red wine"
     ],
     "timers": [0, 0, 0, 420],
-    "imageURL": "https://imgur.com/djWF5zT",
-    "videoURL":"https://youtu.be/B3DEtmdw3-E"   
+    "imageURL": "https://www.photosandfood.ca/wp-content/uploads/2020/05/DSC00845-2.jpg.webp"
   },
   {
-    "name": "honey garlic butter roasted carrots",
+    "id": 23,
+    "name": "Grilled codfish",
     "ingredients": [
-      "2 pounds (1 kg) carrots washed and peeled (or unpeeled)",
-      "1/3 cup butter",
-      "3 tablespoons honey",
-      "4 garlic cloves minced",
-      "1/4-1/2 teaspoon salt plus more for seasoning",
-      "Cracked black pepper",
-      "2 tablespoons fresh chopped parsley"
+      "Codfish",
+      "Olive oil",
+      "3 garlic cloves",
+      "4 potatoes with the peel",
+      "Parsley (optional)",
+      "Salt and pepper (to taste)"
     ],
 
     "steps": [
-      "Preheat oven to 425°F (220°C). Lightly grease a large baking sheet with nonstick cooking oil spray; set aside.",
-      "Trim ends of carrots and cut into thirds.",
-      "Melt butter in a pan or skillet over medium-heat. Pour in honey and cook, while stirring, until completely melted through the butter. Add the garlic and cook for 30 seconds until fragrant while stirring.",
-      "Add the carrots and allow the sauce to thicken for a further minute, while tossing the carrots through the sauce. Season with salt and pepper. ",
-      "Transfer carrots to baking sheet in a single layer so they cook evenly. Toss to evenly coat.",
-      "Roast for 20 minutes, or until carrots are fork-tender. Broil (or grill) for 2-3 minutes on high heat to crisp/char the edges.",
-      "OPTIONAL: Transfer them back into the skillet and allow carrots to simmer in the sauce over high heat for 5 minutes to thicken the sauce into a glaze. *SEE NOTES.",
-      "Season with a little extra salt and pepper if desired. Garnish with parsley.",
-      "Arrange onto serving platter and enjoy!"
+      "Place the codfish in a bowl and cover it with ground pepper. Place it in the refrigerator for a few hours.",
+      "Drain the codfish and remove the excess of pepper with paper towels if needed.",
+      "Grill the cod (15 to 20 minutes or until cooked) switching sides half way.",
+      "Boil the potatoes in water with salt to taste.",
+      "Fry the garlic in olive oil and set aside.",
+      "Punch each boiled potato to open them a little.",
+      "Serve the codfish accompanied by the potatoes, bread, roasted peppers or a salad. You can also try these sauces.",
+      "Drizzle with the olive oil and fried garlic and enjoy!"
     ],
     "timers": [0, 0, 0, 420],
-    "imageURL": "https://imgur.com/jL2tsND",
-    "videoURL":"https://youtu.be/qYfoARhooHE"
-   
+    "imageURL": "https://www.bbqs-algarve.com/wp-content/uploads/2020/07/Portuguese-grilled-codfish-recipe.jpg"
   },
   {
-    "name": "creamy mashed potatoes ",
+    "id": 24,
+    "name": "Fish Soup",
     "ingredients": [
-      "2 pounds (1kg) potatoes, (Russet, Yukon Gold, Dutch Creams, Creme Gold, Creme Royale)",
-      "1 teaspoon salt",
-      "1/2 cup hot milk, or more",
-      "1/3 cup unsalted butter, softened (close to room temp is best)",
-      "6-8 cloves fresh garlic finely chopped",
-      "1/4 cup sour cream",
-      "1/4 cup fresh shredded parmesan cheese, optional",
-      "Salt and Pepper, to taste",
-      "1 tablespoon fresh chopped parsley to garnish, optional to garnish"
-    ],
-
-    "steps": [
-      "Peel and cut potatoes into quarters lengthwise. Remove any spots, lumps or knots.",
-      "Place potatoes in a large pot (6-quart) and cover with cold, salted water by an inch. Bring to a boil, reduce heat down to medium-low and allow to simmer until fork tender (about 15-20 minutes).",
-      "When potatoes are just about done (nearly fork-tender), heat 1 tablespoon of the butter in a small pan over medium-high heat. Sauté garlic until fragrant, about 1 minute. Set aside and keep warm",
-      "Drain cooked potatoes, add in the remaining butter, cooked garlic, hot milk and sour cream.",
-      "Mash the potatoes with a potato masher until smooth, adding a little extra milk if needed. ",
-      "Add in the parmesan cheese. Season with salt and pepper to taste."
-    ],
-    "timers": [0, 0, 0, 420],
-    "imageURL": "https://imgur.com/Sou4Z5E",
-    "videoURL":""
-   
-  },
-  {
-    "name": "garlic herb butter roast chicken",
-    "ingredients": [
-      "4 pound (2kg) whole chicken,",
-      "1/4 cup unsalted butter, melted",
-      "1/4 cup white wine",
-      "1 lemon, halved",
-      "Salt and freshly ground pepper, to taste",
-      "2 tablespoons fresh chopped parsley",
-      "4 garlic cloves, minced",
-      "1 head of garlic roughly peeled and cut in half horizontally through the middle crosswise",
-      "3 fresh whole rosemary sprigs"
-    
-    ],
-
-    "steps": [
-      "Preheat oven to 430°F | 220°C (400°F or 200°C fan forced). Line a baking tray with foil, or lightly grease a roasting pan.",
-      "Discard neck from inside the cavity and remove any excess fat and leftover feathers. Pat dry with paper towels.",
-      "Pour the olive oil, melted butter, wine (if using) and the juice of half a lemon over the chicken, under the skin and inside the cavity. Season chicken liberally on the outside and inside the cavity with salt and pepper. Sprinkle over the parsley.",
-      "Rub the minced garlic over the chicken, mixing all ingredients together over the chicken and under the skin.",
-      "Stuff the garlic head into the chicken cavity along with the rosemary sprigs and the squeezed lemon halve. Tie legs together with kitchen string.",
-      "Place breast-side up into baking tray or roasting pan. Roast for 1 hour and 15-20 minutes, basting half way through cooking time, until juices run clear when chicken thigh is pierced with a skewer. ",
-      "Baste again, then broil for a further 2-3 minutes, until golden.",
-      "Remove from the oven, cover with foil and allow to stand for 10 minutes before serving. Serve, drizzled with pan juices and remaining lemon half cut into wedges or slices."
-      
-    ],
-    "timers": [0, 0, 0, 420],
-    "imageURL": "https://imgur.com/s785FYB",
-    "videoURL":"https://youtu.be/nZBuqMc7Njs"
-   
-  },
-  {
-    "name": "CREAMY GARLIC PARMESAN BROCCOLI & BACON",
-    "ingredients": [
-      "8 ounces (250 g) bacon roughly chopped",
-      "2 tablespoons butter",
-      "1 onion diced",
-      "5 cloves garlic finely chopped",
-      "1 1/2 cups (400 ml) light cream (or for a richer sauce, you can use heavy or thickened cream)",
-      "1 1/2 teaspoons cornstarch mixed with 1 tablespoon water cornstarch slurry",
-      "1 pound (500 g) broccoli florets, from 2-3 broccoli heads -- stems removed Salt and pepper to season",
-      "1/2 cup fresh shredded or grated mozzarella",
-      "1/3 cup fresh shredded or grated parmesan cheese"
-    ],
-
-    "steps": [
-      "Preheat broiler (on medium heat).",
-      "Fry the bacon in a large oven-safe skillet over medium heat until crispy. Use a slotted spoon to transfer to a paper towel lined plate to soak up some of the oil. Set aside.",
-      "Drain most of the bacon fat from the pan, leaving about 1-2 tablespoons for added flavour (adjust this amount to your liking). In the same pan, melt the butter, add the onion and cook until transparent (about 2 minutes), while scraping up any browned bits leftover from the bacon. Add the broccoli and season with salt and pepper and cook while stirring occasionally for about 3 minutes, or until just turning vibrant in colour.",
-      "Add in the garlic and stir it through the broccoli for 30 seconds, until fragrant. Pour in the cream, reduce heat down to low and let simmer for about 3-4 while stirring occasionally, or until the sauce thickens to your likin",
-      "Add the bacon and give everything a good mix to combine all of the flavours together. Top with the mozzarella and parmesan cheeses. Broil until cheese is bubbling and golden, and broccoli is done to your liking (about 2-3 minutes).",
-      "Season with a little extra pepper, if desired, before serving. You can also sprinkle with fresh chopped parsley, thyme or rosemary"
-    ],
-    "timers": [0, 0, 0, 420],
-    "imageURL": "https://imgur.com/pXSdcA5",
-    "originalURL":"https://youtu.be/TMnx8KRWy6o"
-   
-  },
-  {
-    "name": "MOZZARELLA STUFFED CHICKEN PARMESAN",
-    "ingredients": [
-      "4 boneless skinless chicken thighs,",
-      "Pinch of salt, to taste",
-      "4 tablespoons garlic and herb flavoured tomato paste",
-      "2 teaspoons dried parsley",
-      "2 teaspoons garlic powder",
-      "1 teaspoon salt, divided",
-      "8 thin slices Mozzarella cheese, divided",
-      "1 egg",
-      "1 teaspoon garlic powder",
-      "1/4 cup breadcrumbs",
-      "1/4 cup panko breadcrumbs",
-      "1 teaspoon dried basil",
-      "2 tablespoons grated parmesan cheese",
-      "2 teaspoons olive oil",
-      "1 bottle Pasta/Marinara Sauce"
-    ],
-
-    "steps": [
-      "Preheat oven to 450°F (230°C). Lightly pound fillets between two pieces of plastic wrap to 1/4-inch thickness using a mallet. Pat chicken dry; season with salt.",
-      "Spread 1 tablespoon tomato paste over one side of each fillet; sprinkle with parsley, garlic powder and 1/2 teaspoon of salt. Place one slice of mozzarella onto each half of a fillet and roll (starting from the cheese end) and place seam side down.",
-      "In a shallow medium-sized bowl, whisk the the egg, garlic powder and remaining 1/2 teaspoon of salt together; set aside. In another shallow bowl, combine the breadcrumbs, panko, basil and parmesan cheese.",
-      "Heat the olive oil in a 12-inch cast iron skillet (or oven-proof frying pan) over medium heat. Evenly coat the rolled chicken fillets into the egg mixture, then into the breadcrumb mixture.",
-      "Place the chicken (seam side down again) into the preheated skillet/pan and cook on each side for 4-5 minutes until the coating is golden brown and the cheese on the inside has melted.",
-      "Reduce heat to low and pour in the pasta sauce. Move the chicken around with tongs so the sauce is evenly covered over the base of the pan; allow to simmer for 1-2 minutes until fragrant.",
-      "Pour some sauce from the pan over each chicken; place skillet/pan in the oven to cook for a further 10 minutes. Remove pan from oven; top each chicken roll with remaining cheese slices; return to oven and allow to grill/broil on medium heat until cheese has melted over the top. Garnish with extra dried parsley and Italian herbs.",
-      "Serve warm over pasta; mashed potatoes or with a salad."
-    ],
-    "timers": [0, 0, 0, 420],
-    "imageURL": "https://imgur.com/BEuLvHD"
-   
-  },
-  {
-    "name": "2 INGREDIENT PESTO CHICKEN",
-    "ingredients": [
-      "4 skinless and boneless chicken breast fillets (about 1 kg | 2 pounds)",
-      "1/2 cup Basil Pesto , plus 1/4 cup extra for serving (use this recipe for homemade pesto or you can use store bought)",
-      "Salt and Pepper to season ",
-      "500 g | 17 ounces cherry tomatoes"
-    ],
-
-    "steps": [
-      "Smother chicken fillets in the pesto on all sides (about 2 tablespoons of pesto for each chicken breast, depending on your taste). ",
-      "Preheat a barbecue plate, grill pan or skillet over medium-high heat. Cook for 5-6 minutes each side or until completely cooked through.",
-      "Top chicken with extra pesto. Serve with the tomatoes",
-      "Preheat the oven to 350°F | 180°C. Line a baking dish with aluminium foil or bang | parchment paper.",
-      "Arrange the coated chicken breasts in the baking dish and bake in a preheated oven for 30 minutes.",
-      "At 30 minutes, remove the chicken from the oven and arrange the tomatoes around each fillet.",
-      "Place the chicken back in the oven and cook a further 20 minutes, or until the chicken is cooked through and no longer pink."
-      
-    ],
-    "timers": [0, 0, 0, 420],
-    "imageURL": "https://imgur.com/kAuDKnt"
-   
-  },
-  {
-    "name": "Pancakes",
-    "ingredients": [
-      "potatoes – 1 kg",
-      "sauerkraut – 300 g",
-      "eggs – 2 pieces",
-      "onions – 1 head",
-      "wheat flour – 100 grams",
-      "milk – 200 grams",
-      "greens",
+      "2 pounds fresh fish of your choice (salmon, seabass, fresh cod, monkfish...)",
+      "1/2 pound tiger prawns",
+      "5 table spoons olive oil",
+      "1 carrot",
+      "2 potatoes",
+      "1 onionshopping list",
+      "4 garlic cloves",
+      "1 pound good red tomatoes (peeled)",
+      "1 red chili (if you like it)",
+      "1/2 pint white wine",
+      "coriander leaves",
       "salt",
-      "vegetable oil for frying"
-  
+      "pepper",
+      "6 pints water to boil the fish and prawn (add more later if needed)"
     ],
 
     "steps": [
-      "Potatoes wash, peel and grate on a coarse grater into a separate bowl. Gently squeeze to remove excess juice",
-      "Sauerkraut to press down with hands that are softer. Add to the potatoes. There may be hammered in chicken eggs",
-      "Onion finely chop, to attach to other components. Pour the prepared milk, add the flour. Salt. The mixture should be not too runny, but not thick. To bring it to the desired consistency, gradually adding milk or flour",
-      "In a pan heat the vegetable oil. You may want to add a little fat or butter.",
-      "Potatoes to score a tablespoon and place on a pan. Each dranik be pressed to become flat. Fry for 3-4 minutes on each side, the tracking, so it wouldn't burn.",
-      "Served pancakes with greens and sour cream. Bon appetit!"
+      "Boil the fish and the prawns in water seasoned with salt and bay leaf.",
+      "Use a big pot and start cooking the chopped onion, garlic and carrot in olive oil. Let it be in low heat for 10 minutes stirring occasionally so it doesn't burn.",
+      "Add the skinless potato in cubes, the tomato and the wine. Let it cook for 10 minutes and don't forget to stir.",
+      "Save the boiled fish water and add to your vegetables.",
+      "Taste it and season again if needed. It's time to add the chili pepper.",
+      "While you let the soup cook, get rid of the fish bones.",
+      "45 minutes later take the chili and the bay leaf and use a hand blender to transform your veggies and water into a nice broth.",
+      "After blended add the fish, prawns and chopped coriander leaves.",
+      "Cook for 10 minutes more and serve."
     ],
     "timers": [0, 0, 0, 420],
-    "imageURL": "https://res.cloudinary.com/dppglrm2s/image/upload/v1621530796/draniki_xmmcs2.jpg"
-   
+    "imageURL": "http://s2.grouprecipes.com/images/recipes/original/2221747064.JPG"
   },
   {
-    "name": "Cottage cheese pancakes",
+    "id": 25,
+    "name": "Portuguese fish and chips-bacalhau a bras",
     "ingredients": [
-      "low fat cottage cheese (300 grams)",
-      "chicken eggs (2 pieces)",
-      "semolina (2-3 tablespoons)",
-      "sugar (50-60 grams)",
-      "sour cream (3 tablespoons)",
-      "a pinch of salt",
-      "vegetable oil"
-  
+      "1 pound dried salt cod",
+      "7 tablespoons olive oil, divided",
+      "1 1/2 pounds russet potatoes, peeled, cut into matchstick-size strips (about 6 cups)",
+      "1 large onion, thinly sliced",
+      "8 large eggs",
+      "1/2 teaspoon salt",
+      "1/2 teaspoon ground black pepper",
+      "4 tablespoons chopped fresh parsley, divided",
+      "some green or black olives"
     ],
 
     "steps": [
-      "In large bowl, mix cottage cheese with sour cream. Gradually add the flour, semolina, salt and sugar. Beat eggs. Carefully knead. Leave the mixture for 20 minutes to semolina swelled.",
-      "Preheat a frying pan with plenty of vegetable oil. Form small balls, which are neatly spread on a pan.",
-      "Fry until Golden brown on both sides. Bon appetit!"
+      "Rinse the fish and place it in a bowl. Add enough cold water to cover. Chill overnight, changing the water several times.",
+      "The next day, drain the fish and transfer to a large saucepan. Cover with water, bring to a boil, and simmer until the fish flakes easily, about 15 minutes.Drain and cool. Flake the fish, discarding any bones.",
+      "Heat 4 tablespoons of the oil in a heavy, large nonstick skillet over medium-high heat. Add the potatoes in batches and sauté until crisp and golden, about 7 minutes per batch. Transfer the potatoes to paper towels to drain.",
+      "Add 1 tablespoon of the oil to the same skillet. Add the onion and and sauté until golden, about 15 minutes. Reduce the heat to low. Add the remaining 2 tablespoons oil to the onion slices in the skillet.",
+      "Mix in the fish and potatoes. Whisk the eggs, the 1/2 teaspoon salt, and the 1/2 teaspoon pepper in a large bowl to blend. Add the egg mixture the skillet.",
+      "Cook over medium heat until the eggs are softly set, stirring occasionally, about 3 minutes. Transfer onto a platter.",
+      "Garnish with the olives and the parsley.And serve with some salad."
     ],
     "timers": [0, 0, 0, 420],
-    "imageURL": "https://res.cloudinary.com/dppglrm2s/image/upload/v1621531477/sirniki_xpifkg.jpg"
-   
+    "imageURL": "https://en.petitchef.com/imgupl/recipe/portuguese-fish-and-chips-bacalhau-a-bras--md-266404p432650.jpg"
   },
   {
-    "name": "Vereshchaka",
+    "id": 26,
+    "name": "Fish and Pasta Stew",
     "ingredients": [
-      "4 white sausages",
-      "150g bacon",
-      "100g onion",
-      "50g flour",
-      "0.7 liters water",
-      "0.5 liters beer",
-      "spices (cumin, bay leaf, black pepper) and salt to taste"
-  
+      "2 Tbsp olive oil",
+      "1 onion medium, finely chopped",
+      "3 cloves garlic minced",
+      "1 cup leeks sliced, soaked and clean (or carrots)",
+      "¾ cup crushed tomatoes or ½lb (250g) fresh tomatoes, diced",
+      "1 l shrimp or seafood broth (about 1 qt, 32oz) homemade or store-bought",
+      "1-2 cup water boiling",
+      "1 ⅓ cup pasta macaroni or small shells (about ½lb)",
+      "400 g fish fillets haddock, cod, halibut, salmon or another fish of your liking (about 1 lb, cut into bite-size pieces)",
+      "200 g shrimp (about ½lb) peeled and deveined, optional",
+      "salt and pepper to taste",
+      "¼ cup cilantro or parsley, chopped"
     ],
 
     "steps": [
-      "Dice the onion and sauté it in the vegetable oil until it is light brown. Add the julienne bacon and keep frying the mix.",
-      "Put the white sausages in the boiling water mixed with beer and spices. When the sausages are cooked, take them out and cut into pieces. Put the sausage pieces back to the broth and add the onion and bacon.",
-      "On a dry frying pan, sauté the flour until it is cream-colored, cool it down and add the remaining broth in the amount needed for a uniform consistency. Pour the mix slowly into the vereshchaka with the sausages stirring the mix all the way. Keep it on low heat until it thickens."
-    
+      "Season the fish (and shrimp, if using) with salt and pepper and set aside. Chop the onion and the garlic. Heat the broth and water.",
+      "Bring a pan to medium heat, heat the oil, add the onion and sauté until it begins to brown.",
+      "Add the garlic, mix and cook for 1 minute. Add the leeks and cook until tender.",
+      "Add the tomatoes and let everything simmer for a few minutes to develop the flavours. Add the broth and 1 cup of water (both hot), taste and adjust the seasoning with salt and a pinch of black pepper.",
+      "Bring to a boil and add the pasta. Mix and cook over medium-high heat, stirring occasionally (so the macaroni doesn't stick to the bottom), until the pasta is soft (about 10-12 minutes). If you want the stew with more broth, add more hot water (and check the seasoning) until you get the consistency you prefer.",
+      "Add the fish (and the shrimp, if using), mix and cook for another 3-5 minutes, until the fish is opaque and flakes easily. Ideally, the fish should break up a little in the broth to combine more with the pasta.",
+      "Turn off the heat, sprinkle with the cilantro (or parsley), stir, and it's ready to serve!"
     ],
     "timers": [0, 0, 0, 420],
-    "imageURL": "https://res.cloudinary.com/dppglrm2s/image/upload/v1621532240/vereshaka_snudxi.jpg"
-   
+    "imageURL": "https://i1.wp.com/www.vivahappy.com/wp-content/uploads/2020/04/20200422_135154-scaled.jpg?resize=1400%2C400&ssl=1"
   }
 ]
